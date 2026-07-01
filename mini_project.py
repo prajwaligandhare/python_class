@@ -1,0 +1,12 @@
+print("====================")
+print("     ABOUT ME       ")
+print(" ====================")
+print("Name   : Priya")
+print("Class  : 12th")
+print("Goal   : AI Engineer")
+print("====================")
+print("Dream Job: Agentic AI Engineer")
+print("City: Nagpur")
+print("State: MH")
+print("Hobby: Cooking")
+

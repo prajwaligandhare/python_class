@@ -1,0 +1,8 @@
+print("Name: Khushi Kumari Sharma")
+print("City: Nagpur")
+print("Hobby: Cooking")
+print("Favourite Food: besan-bhakar")
+print("Favourite Color: lavender")
+print("Dream Job: Agentic AI Engineer")
+print("I am learning python to become an AI Engineer")
+print("That's all about like")
